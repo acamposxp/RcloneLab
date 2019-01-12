@@ -2,12 +2,12 @@
 
 ## Introduction
 
-**RcloneLab** is a rclone GUI for Google Colaboratory made by MinorMole and pureexe
+**RcloneLab** is a rclone GUI for Google Colaboratory.
 
 ## Installation
 
-1. Open the IPython Notebook file by clicking [here](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb).
-2. Click "Run cell" (play button) in the Installation section.
+1. Open the IPython Notebook file in Google Colaboratory by clicking [here](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb).
+2. Click "Run cell" (play button) in the Installation section. Time Zone setup is optional for the correct time of log output.
 
     ![](https://github.com/MinorMole/RcloneLab/raw/master/docs/01.png)
   
@@ -29,5 +29,3 @@
 ## Usage
 
 Click "Run cell" (play button) in the RcloneLab section to run the rclone.
-
-    Note: Test checkbox is Dry-run
