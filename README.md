@@ -2,7 +2,9 @@
 
 ## Introduction
 
-**RcloneLab** is a rclone GUI for Google Colaboratory. Please consider contributing our project, any improved version of the code is welcome and much appreciate.
+**RcloneLab** is a rclone GUI for Google Colaboratory, similar to Rclone Browser. Please consider contributing our project, any improved version of the code is welcome and much appreciate.
+
+**Google Colaboratory** is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud.
 
 ## Installation
 
