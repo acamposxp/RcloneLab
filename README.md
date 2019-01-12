@@ -22,8 +22,8 @@
 4. Locate your rclone.conf in the Google Drive and paste the location in the Configuration section. (If file doesn't exist rclone will create it.)
 
     Example
-  - Team Drives/rclone.conf
-  - My Drive/rclone.conf
+    - My Drive/rclone.conf
+    - Team Drives/Drive Name/rclone.conf
   
 5. Click "Run cell" (play button) in the Configuration section to test if rclone can locate the rclone.conf file.
 6. The RcloneLab is ready to use.
