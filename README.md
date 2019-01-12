@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**RcloneLab** is a rclone GUI for Google Colaboratory.
+**RcloneLab** is a rclone GUI for Google Colaboratory. Please consider contributing our project, any improved version of the code is welcome and much appreciate.
 
 ## Installation
 
