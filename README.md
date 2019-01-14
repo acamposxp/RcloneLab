@@ -9,7 +9,7 @@
 
 [**rclone**](https://rclone.org/) ("rsync for cloud storage") is a command line program to sync files and directories to and from different cloud storage providers.
 
-[**Google Colaboratory**](https://colab.research.google.com/) is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud.
+[**Google Colaboratory**](https://colab.research.google.com/) is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud with high speed network. Check the VM's specification [here](https://github.com/MinorMole/RcloneLab/tree/master/VM's%20specification).
 
 ## Installation
 
@@ -40,6 +40,8 @@
 ## Usage
 
 Click "Run cell" (play button) in the RcloneLab section to run the rclone.
+
+- Note: We recommend to use [Rclone Browser](https://github.com/DinCahill/RcloneBrowser) for file browsing and get path for RcloneLab.
 
 ## Licence
 
