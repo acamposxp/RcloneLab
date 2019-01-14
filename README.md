@@ -14,24 +14,26 @@
 ## Installation
 
 1. Open the IPython Notebook file in Google Colaboratory by clicking [here](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb).
+  
+2. Choose where to load rclone.conf file by two methods below.
+
+    2.1. Default, by upload rclone.conf from your computer. If you choose this method by uncheck the "Use_rclone_config_from_Google_Drive" checkbox.
+
+    2.2. Use rclone.conf from your Google Drive storage. Check the "Use_rclone_config_from_Google_Drive" checkbox.
+    
 2. Click "Run cell" (play button) in the Installation section. Time Zone setup is optional for the correct time of log output.
 
     ![](https://github.com/MinorMole/RcloneLab/raw/master/docs/01.png)
   
-3. Open the link in the output area and choose Google account you want to connect. Then copy the code to text box (Enter your authorization code:) and press Enter.
+4. Click "Run cell" (play button) in the Configuration section to test if rclone can locate the rclone.conf file.
 
-    ![](https://github.com/MinorMole/RcloneLab/raw/master/docs/02.png)
-  
-    If the operation successful this text "Mounted at /GD" will show in the output area.
-  
-4. Locate your rclone.conf in the Google Drive and paste the location in the Configuration section. (If file doesn't exist rclone will create it.)
-
+    > Note: If you choose to use rclone.conf from your Google Drive storage. Locate your rclone.conf in the Google Drive and paste the location in the Configuration section. (If file doesn't exist rclone will create it.)
+    
     Example
     - My Drive/rclone.conf
     - Team Drives/Drive Name/rclone.conf
-  
-5. Click "Run cell" (play button) in the Configuration section to test if rclone can locate the rclone.conf file.
-6. The RcloneLab is ready to use.
+
+5. The RcloneLab is ready to use.
 
 ## Usage
 
