@@ -27,7 +27,7 @@
 
     ![](https://github.com/MinorMole/RcloneLab/raw/master/docs/01.png)
   
-4. Click "Run cell" (play button) in the Configuration section to test if rclone can locate the rclone.conf file.
+4. Click "Run cell" (play button) in the "Usage" section to test if rclone can locate the rclone.conf file.
 
     > Note: If you choose to use rclone.conf from your Google Drive storage. Locate your rclone.conf in the Google Drive and paste the location in the Configuration section. (If file doesn't exist rclone will create it.)
     
