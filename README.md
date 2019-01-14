@@ -45,4 +45,4 @@ Click "Run cell" (play button) in the RcloneLab section to run the rclone.
 
 ## Licence
 
-Licenced under The [MIT License](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE).
+Licenced under the [MIT License](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE).
