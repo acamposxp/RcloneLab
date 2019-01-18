@@ -5,7 +5,7 @@
 
 ## Introduction
 
-**RcloneLab** is a rclone GUI for Google Colaboratory, similar to Rclone Browser. Please consider contributing our project, any improved version of the code is welcome and much appreciate.
+[**RcloneLab**](https://minormole.github.io/RcloneLab/) is a rclone GUI for Google Colaboratory, similar to Rclone Browser. Please consider contributing our project, any improved version of the code is welcome and much appreciate.
 
 [**rclone**](https://rclone.org/) ("rsync for cloud storage") is a command line program to sync files and directories to and from different cloud storage providers.
 
