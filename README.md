@@ -18,8 +18,6 @@
 2. Choose where to load rclone.conf file by two methods below.
 
     2.1. Default, by upload rclone.conf from your computer. If you choose this method, uncheck the "Use_rclone_config_from_Google_Drive" checkbox.
-    
-    > Note: If you want to upload new rclone.conf file please reset all runtimes first.
 
     2.2. Use rclone.conf from your Google Drive storage. Check the "Use_rclone_config_from_Google_Drive" checkbox.
     
