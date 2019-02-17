@@ -5,7 +5,11 @@
 
 [**RcloneLab**](https://minormole.github.io/RcloneLab/) is a rclone GUI for Google Colaboratory, similar to Rclone Browser. Please consider contributing our project, any improved version of the code is welcome and much appreciate.
 
+[**TransmissionLab**](https://minormole.github.io/RcloneLab/) is a transmission-cli GUI for Google Colaboratory.
+
 [**rclone**](https://rclone.org/) ("rsync for cloud storage") is a command line program to sync files and directories to and from different cloud storage providers.
+
+[**transmission-cli**](https://launchpad.net/ubuntu/bionic/+package/transmission-cli) is a set of lightweight BitTorrent clients (in GUI, CLI and daemon form).
 
 [**Google Colaboratory**](https://colab.research.google.com/) is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud with high speed network. Check the VM's specification [here](https://github.com/MinorMole/RcloneLab/tree/master/VM's%20specification).
 
