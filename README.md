@@ -1,6 +1,13 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb)
 [![GitHub license](https://img.shields.io/github/license/MinorMole/RcloneLab.svg)](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE)
 
+## What's new?
+
+- Google Colaboratory upgrade their Default and TPU virtual machine storage from 20GB to 50GB and for the GPU virtual machine receive 360GB storage.
+- Add TransmissionLab (transmission-cli) as a part of RcloneLab.
+- Add "TransmissionLab" mode in RcloneLab for upload file from TransmissionLab to cloud storage.
+- UI improvement.
+
 ## Introduction
 
 [**RcloneLab**](https://minormole.github.io/RcloneLab/) is a rclone GUI for Google Colaboratory, similar to Rclone Browser. Please consider contributing our project, any improved version of the code is welcome and much appreciate.
