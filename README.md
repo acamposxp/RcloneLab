@@ -3,7 +3,7 @@
 
 ## What's new?
 
-- Google Colaboratory upgrade their Default and TPU virtual machine storage from 20GB to 50GB and for the GPU virtual machine receive 360GB storage.
+- Google Colaboratory upgrade their Default and TPU virtual machine storage from 20GB to 50GB and for the GPU virtual machine receive 360GB storage. Check the VM's specification [here](https://github.com/MinorMole/RcloneLab/tree/master/VM's%20specification).
 - Add TransmissionLab (transmission-cli) as a part of RcloneLab.
 - Add "TransmissionLab" mode in RcloneLab for upload file from TransmissionLab to cloud storage.
 - UI improvement.
