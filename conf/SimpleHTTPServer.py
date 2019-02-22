@@ -1,13 +1,14 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
 
 import posixpath
 import argparse
 import urllib
 import os
 
-from SimpleHTTPServer import SimpleHTTPRequestHandler
-from BaseHTTPServer import HTTPServer
-
+from http.server import HTTPServer, SimpleHTTPRequestHandler, test as test_orig
+import sys
+def test (*args):
+  test_orig(*args, port=int(sys.argv[1]) if len(sys.argv) > 1 else 8000)
 
 class RootedHTTPServer(HTTPServer):
 
