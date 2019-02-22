@@ -1,14 +1,13 @@
-#!/usr/bin/env python
+#! /usr/bin/env python
 
 import posixpath
 import argparse
-import urllib
+import urllib.request, urllib.parse, urllib.error
 import os
 
-from http.server import HTTPServer, SimpleHTTPRequestHandler, test as test_orig
-import sys
-def test (*args):
-  test_orig(*args, port=int(sys.argv[1]) if len(sys.argv) > 1 else 8000)
+from http.server import SimpleHTTPRequestHandler
+from http.server import HTTPServer
+
 
 class RootedHTTPServer(HTTPServer):
 
@@ -20,9 +19,9 @@ class RootedHTTPServer(HTTPServer):
 class RootedHTTPRequestHandler(SimpleHTTPRequestHandler):
 
     def translate_path(self, path):
-        path = posixpath.normpath(urllib.unquote(path))
+        path = posixpath.normpath(urllib.parse.unquote(path))
         words = path.split('/')
-        words = filter(None, words)
+        words = [_f for _f in words if _f]
         path = self.base_path
         for word in words:
             drive, word = os.path.splitdrive(word)
