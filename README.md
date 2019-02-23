@@ -1,4 +1,7 @@
-<img src="https://minormole.github.io/RcloneLab/img/title_rclonelab.png" height="70" />
+<p align="center">
+  <img height="70" src="https://minormole.github.io/RcloneLab/img/title_rclonelab.png">
+</p>
+<br>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb)
 [![GitHub license](https://img.shields.io/github/license/MinorMole/RcloneLab.svg)](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE)
