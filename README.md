@@ -3,9 +3,6 @@
 </p>
 <br>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb)
-[![GitHub license](https://img.shields.io/github/license/MinorMole/RcloneLab.svg)](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE)
-
 ## What's new?   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb) [![GitHub license](https://img.shields.io/github/license/MinorMole/RcloneLab.svg)](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE)
 
 - Google Colaboratory upgrade their Default and TPU virtual machine storage from 20GB to 50GB and for the GPU virtual machine receive 360GB storage. Check the VM's specification [here](https://github.com/MinorMole/RcloneLab/tree/master/VM's%20specification).
