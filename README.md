@@ -2,7 +2,7 @@
   <img height="70" src="https://minormole.github.io/RcloneLab/img/title_rclonelab.png">
 </p>
 
-## What's new?   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb) [![GitHub license](https://img.shields.io/github/license/MinorMole/RcloneLab.svg)](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE)
+## What's new?
 
 - Google Colaboratory upgrade their Default and TPU virtual machine storage from 20GB to 50GB and for the GPU virtual machine receive 360GB storage. Check the VM's specification [here](https://github.com/MinorMole/RcloneLab/tree/master/VM's%20specification).
 
@@ -22,7 +22,7 @@
 
 [**Google Colaboratory**](https://colab.research.google.com/) is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud with high speed network. Check the VM's specification [here](https://github.com/MinorMole/RcloneLab/tree/master/VM's%20specification).
 
-## Installation
+## Installation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb)
 
 1. Open the IPython Notebook file in Google Colaboratory by clicking [here](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb).
   
@@ -52,6 +52,6 @@ Click "Run cell" (play button) in the RcloneLab section to run the rclone.
 
 - Note: We recommend to use [Rclone Browser](https://github.com/DinCahill/RcloneBrowser) for file browsing and get path for RcloneLab.
 
-## Licence
+## Licence [![GitHub license](https://img.shields.io/github/license/MinorMole/RcloneLab.svg)](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE)
 
 Licenced under the [MIT License](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE).
