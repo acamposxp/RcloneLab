@@ -10,6 +10,7 @@
 
 - Add qBittorrent's WebUI as a part of RcloneLab.
 - Add "qBittorrent" mode in RcloneLab for upload file from TransmissionLab to cloud storage.
+- Add HTTP File Server for easy access to qBittorrent's downloaded files.
 - UI improvement.
 
 ## Introduction
