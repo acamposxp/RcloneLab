@@ -4,10 +4,6 @@
 
 ## What's new?
 
-- Google Colaboratory upgrade their Default and TPU virtual machine storage from 20GB to 50GB and for the GPU virtual machine receive 360GB storage. Check the VM's specification [here](https://github.com/MinorMole/RcloneLab/tree/master/VM's%20specification).
-
-## Soon™
-
 - Add qBittorrent's WebUI as a part of RcloneLab.
 - Add "qBittorrent" mode in RcloneLab for upload file from TransmissionLab to cloud storage.
 - Add HTTP File Server for easy access to qBittorrent's downloaded files.
