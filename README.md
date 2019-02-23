@@ -35,7 +35,7 @@
     
 2. Click "Run cell" (play button) in the Installation section. Time Zone setup is optional for the correct time of log output.
 
-    ![](https://github.com/MinorMole/RcloneLab/raw/master/docs/01.png)
+    <img width="370" src="https://minormole.github.io/RcloneLab/docs/01.png">
   
 4. Click "Run cell" (play button) in the "Usage" section to test if rclone can locate the rclone.conf file.
 
