@@ -1,8 +1,8 @@
 # Where rTorrent saves the downloaded files
-directory = ~/rTorrent/Download
+directory = /content/rTorrent
 
 # Where rTorrent saves the session
-session = ~/rTorrent/.Session
+session = ~/.rTorrent_session
 
 # Which ports rTorrent can use (Make sure to open them in your router)
 port_range = 50000-50000
