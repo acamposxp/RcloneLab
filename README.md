@@ -5,7 +5,7 @@
 ## Introduction
 
 [**RcloneLab**](https://minormole.github.io/RcloneLab) is a [**rclone**](https://rclone.org/)
- GUI for Google Colaboratory, similar to Rclone Browser. Please consider contributing our project, any improved version of the code is welcome and much appreciate.
+ GUI for Google Colaboratory, similar to [Rclone Browser](https://github.com/DinCahill/RcloneBrowser). Please consider contributing our project, any improved version of the code is welcome and much appreciate.
 
 [**qBittorrent**](https://www.qbittorrent.org) is a cross-platform free and open-source BitTorrent client.
 
