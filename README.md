@@ -13,7 +13,7 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
 <p align="center">
   <img height="45" src="https://minormole.github.io/RcloneLab/img/title_qbittorrent.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="45" src="https://minormole.github.io/RcloneLab/img/title_jdownloader.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="45" src="https://minormole.github.io/RcloneLab/img/title_youtube-dl.png"><br>
+  <img height="45" src="https://minormole.github.io/RcloneLab/img/title_youtube-dl.png"><br><br>
   <img height="45" src="https://minormole.github.io/RcloneLab/img/title_netdata.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="45" src="https://minormole.github.io/RcloneLab/img/title_cloud_commander.png">
 </p>
