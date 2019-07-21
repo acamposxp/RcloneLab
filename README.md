@@ -33,12 +33,12 @@ We recommend to use [Rclone Browser](https://github.com/DinCahill/RcloneBrowser)
 ## Screenshot
 
 <p align="center">
-  <img height="150" src="https://minormole.github.io/RcloneLab/docs/screenshot/rclonelab.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="150" src="https://minormole.github.io/RcloneLab/docs/screenshot/qbittorrent.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="150" src="https://minormole.github.io/RcloneLab/docs/screenshot/jdownloader.png"><br><br>
-  <img height="150" src="https://minormole.github.io/RcloneLab/docs/screenshot/youtube-dl.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="150" src="https://minormole.github.io/RcloneLab/docs/screenshot/netdata.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="150" src="https://minormole.github.io/RcloneLab/docs/screenshot/cloud_commander.png">
+  <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/rclonelab.png">
+  <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/qbittorrent.png">
+  <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/jdownloader.png"><br>
+  <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/youtube-dl.png">
+  <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/netdata.png">
+  <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/cloud_commander.png">
 </p>
 
 ## Licence [![GitHub license](https://img.shields.io/github/license/MinorMole/RcloneLab.svg)](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE)
