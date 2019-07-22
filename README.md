@@ -25,6 +25,8 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
 2. Click "Run cell" (play button) that you want and follow the instruction shown in the output.
 
     <img width="370" src="https://minormole.github.io/RcloneLab/docs/01.png">
+    
+**Note:** use [**Chrome**](https://github.com/MinorMole/RcloneLab/) for the best experience; if you face any issues with other browsers, it's the browser problem, not us.
 
 ## Tip
 
