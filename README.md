@@ -26,7 +26,7 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
 
     <img width="370" src="https://minormole.github.io/RcloneLab/docs/01.png">
     
-- use [**Chrome**](https://www.google.com/chrome/) for the best experience; if you face any issues with other browsers, it's the browser problem, not us.
+- Use [**Google Chrome Browser**](https://www.google.com/chrome/) for the best experience; if you face any issues with other browsers, it's the browser problem, not us.
 - Each account can have one VM session that lasts for 12 hours before purge itself; you can force the new session by goto **Runtime > Reset all runtimes...** But keep that in mind, you need to stay active in Colab console tab; if you lose the connection to the VM, it'll purge itself within 2 to 3 hours.
 
 ## Tip
