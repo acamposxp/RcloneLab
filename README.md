@@ -26,7 +26,7 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
 
     <img width="370" src="https://minormole.github.io/RcloneLab/docs/01.png">
     
-**Note:** use [**Chrome**](https://github.com/MinorMole/RcloneLab/) for the best experience; if you face any issues with other browsers, it's the browser problem, not us.
+**Note:** use [**Chrome**](https://www.google.com/chrome/) for the best experience; if you face any issues with other browsers, it's the browser problem, not us.
 
 ## Tip
 
