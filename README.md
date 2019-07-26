@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This GitHub project is an AIO download/upload/sync manager using the power of [**Google Colaboratory**](https://colab.research.google.com)'s [10 Gbps ethernet](https://github.com/MinorMole/RcloneLab/tree/master/VM's%20specification), and it's **free!** It's come with **RcloneLab**, [**qBittorrent**](https://www.qbittorrent.org), [**JDownloader**](http://jdownloader.org/), [**YouTube-DL**](https://youtube-dl.org/), [**netdata**](https://www.netdata.cloud/) and [**Cloud Commander**](https://cloudcmd.io/).
+This GitHub project is an AIO download/upload/sync manager using the power of [**Google Colaboratory**](https://colab.research.google.com)'s [10 Gbps ethernet](https://github.com/MinorMole/RcloneLab/tree/master/VM's%20specification), and it's **free!** It's come with **RcloneLab**, [**qBittorrent**](https://www.qbittorrent.org), [**JDownloader**](http://jdownloader.org/), [**YouTube-DL**](https://youtube-dl.org/), [**Cloud Commander**](https://cloudcmd.io/) and [**netdata**](https://www.netdata.cloud/).
 
 **RcloneLab** is a [**rclone**](https://rclone.org/) GUI for Google Colaboratory, similar to [Rclone Browser](https://github.com/DinCahill/RcloneBrowser).
 
@@ -14,8 +14,8 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
   <img height="45" src="https://minormole.github.io/RcloneLab/img/title_qbittorrent.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="45" src="https://minormole.github.io/RcloneLab/img/title_jdownloader.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="45" src="https://minormole.github.io/RcloneLab/img/title_youtube-dl.png"><br><br>
-  <img height="45" src="https://minormole.github.io/RcloneLab/img/title_netdata.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="45" src="https://minormole.github.io/RcloneLab/img/title_cloud_commander.png">
+  <img height="45" src="https://minormole.github.io/RcloneLab/img/title_cloud_commander.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="45" src="https://minormole.github.io/RcloneLab/img/title_netdata.png">
 </p>
 
 ## Usage [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb)
@@ -37,8 +37,8 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
   <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/qbittorrent.png">
   <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/jdownloader.png"><br>
   <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/youtube-dl.png">
-  <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/netdata.png">
   <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/cloud_commander.png">
+  <img height="160" src="https://minormole.github.io/RcloneLab/docs/screenshot/netdata.png">
 </p>
 
 ## Licence [![GitHub license](https://img.shields.io/github/license/MinorMole/RcloneLab.svg)](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE)
