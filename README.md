@@ -20,7 +20,7 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
 
 ## Usage [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb)
 
-1. Open the IPython Notebook file in Google Colaboratory by clicking [here](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb).
+1. Open the IPython Notebook file in Google Colaboratory by clicking [**here**](https://colab.research.google.com/github/MinorMole/RcloneLab/blob/master/RcloneLab.ipynb).
 
 2. Click "Run cell" (play button) that you want and follow the instruction shown in the output.
 
