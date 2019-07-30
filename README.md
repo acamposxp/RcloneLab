@@ -43,4 +43,4 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
 
 ## Licence [![GitHub license](https://img.shields.io/github/license/MinorMole/RcloneLab.svg)](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE)
 
-Licenced under the [MIT License](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE).
+Licenced under the [**MIT License**](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE).
