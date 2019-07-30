@@ -4,9 +4,9 @@
 
 ## Introduction
 
-This GitHub project is an AIO download/upload/sync manager using the power of [**Google Colaboratory**](https://colab.research.google.com)'s [10 Gbps ethernet](https://github.com/MinorMole/RcloneLab/tree/master/VM's%20specification), and it's **free!** It's come with **RcloneLab**, [**qBittorrent**](https://www.qbittorrent.org), [**JDownloader**](http://jdownloader.org/), [**YouTube-DL**](https://youtube-dl.org/), [**Cloud Commander**](https://cloudcmd.io/) and [**netdata**](https://www.netdata.cloud/).
+This GitHub project is an AIO download/upload/sync manager using the power of [**Google Colaboratory**](https://colab.research.google.com)'s [**10 Gbps ethernet**](https://github.com/MinorMole/RcloneLab/tree/master/VM's%20specification), and it's **free!** It's come with **RcloneLab**, [**qBittorrent**](https://www.qbittorrent.org), [**JDownloader**](http://jdownloader.org/), [**YouTube-DL**](https://youtube-dl.org/), [**Cloud Commander**](https://cloudcmd.io/) and [**netdata**](https://www.netdata.cloud/).
 
-**RcloneLab** is a [**rclone**](https://rclone.org/) GUI for Google Colaboratory, similar to [Rclone Browser](https://github.com/MinorMole/RcloneBrowser-Portable).
+**RcloneLab** is a [**rclone**](https://rclone.org/) GUI for Google Colaboratory, similar to [**Rclone Browser**](https://github.com/MinorMole/RcloneBrowser-Portable).
 
 ## Featuring
 
@@ -26,7 +26,7 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
 
     <img width="370" src="https://minormole.github.io/RcloneLab/docs/01.png">
 
-- We recommend to use [Rclone Browser](https://github.com/MinorMole/RcloneBrowser-Portable) for file browsing and get a path for RcloneLab.
+- We recommend to use [**Rclone Browser**](https://github.com/MinorMole/RcloneBrowser-Portable) for file browsing and get a path for RcloneLab.
 - Use [**Google Chrome Browser**](https://www.google.com/chrome/) for the best experience; if you face any issues with other browsers, it's the browser problem, not us.
 - Each account can have one VM session that lasts for 12 hours before purge itself; you can force the new session by goto **Runtime > Reset all runtimes...** But keep that in mind, you need to stay active in Colab console tab; if you lose the connection to the VM, it'll purge itself within 2 to 3 hours.
 
