@@ -1,5 +1,4 @@
 <p align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
   <img height="70" src="https://minormole.github.io/RcloneLab/img/title_rclonelab.png">
 </p>
 
@@ -46,7 +45,7 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
 
 Licenced under the [**MIT License**](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE).
 
-## Contributors ✨
+## Contributors [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
