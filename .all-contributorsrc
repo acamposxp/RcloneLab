@@ -36,6 +36,15 @@
         "bug",
         "code"
       ]
+    },
+    {
+      "login": "K-E-N-W-A-Y",
+      "name": "K-E-N-W-A-Y",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25846872?v=4",
+      "profile": "https://github.com/K-E-N-W-A-Y",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
