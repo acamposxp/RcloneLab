@@ -1,4 +1,5 @@
 <p align="center">
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
   <img height="70" src="https://minormole.github.io/RcloneLab/img/title_rclonelab.png">
 </p>
 
@@ -44,3 +45,19 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
 ## Licence [![GitHub license](https://img.shields.io/github/license/MinorMole/RcloneLab.svg)](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE)
 
 Licenced under the [**MIT License**](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE).
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/MinorMole"><img src="https://avatars1.githubusercontent.com/u/11065194?v=4" width="100px;" alt="MinorMole"/><br /><sub><b>MinorMole</b></sub></a><br /><a href="#projectManagement-MinorMole" title="Project Management">📆</a> <a href="#maintenance-MinorMole" title="Maintenance">🚧</a> <a href="https://github.com/MinorMole/RcloneLab/commits?author=MinorMole" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
