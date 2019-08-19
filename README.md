@@ -45,7 +45,7 @@ This GitHub project is an AIO download/upload/sync manager using the power of [*
 
 Licenced under the [**MIT License**](https://github.com/MinorMole/RcloneLab/blob/master/LICENSE).
 
-## Contributors [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+## Contributors [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -53,8 +53,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Sparoney"><img src="https://avatars1.githubusercontent.com/u/38852913?v=4" width="100px;" alt="Sparoney"/><br /><sub><b>Sparoney</b></sub></a><br /><a href="https://github.com/MinorMole/RcloneLab/commits?author=Sparoney" title="Code">💻</a> <a href="#ideas-Sparoney" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/MinorMole"><img src="https://avatars1.githubusercontent.com/u/11065194?v=4" width="100px;" alt="MinorMole"/><br /><sub><b>MinorMole</b></sub></a><br /><a href="#projectManagement-MinorMole" title="Project Management">📆</a> <a href="#maintenance-MinorMole" title="Maintenance">🚧</a> <a href="https://github.com/MinorMole/RcloneLab/commits?author=MinorMole" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Sparoney"><img src="https://avatars1.githubusercontent.com/u/38852913?v=4" width="100px;" alt="Sparoney"/><br /><sub><b>Sparoney</b></sub></a><br /><a href="https://github.com/MinorMole/RcloneLab/commits?author=Sparoney" title="Code">💻</a> <a href="#ideas-Sparoney" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/ShixAJ"><img src="https://avatars1.githubusercontent.com/u/37572790?v=4" width="100px;" alt="ShixAJ"/><br /><sub><b>ShixAJ</b></sub></a><br /><a href="#ideas-ShixAJ" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/MinorMole/RcloneLab/issues?q=author%3AShixAJ" title="Bug reports">🐛</a> <a href="https://github.com/MinorMole/RcloneLab/commits?author=ShixAJ" title="Code">💻</a></td>
   </tr>
 </table>
 
