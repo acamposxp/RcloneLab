@@ -54,6 +54,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Sparoney"><img src="https://avatars1.githubusercontent.com/u/38852913?v=4" width="100px;" alt="Sparoney"/><br /><sub><b>Sparoney</b></sub></a><br /><a href="https://github.com/MinorMole/RcloneLab/commits?author=Sparoney" title="Code">💻</a> <a href="#ideas-Sparoney" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/MinorMole"><img src="https://avatars1.githubusercontent.com/u/11065194?v=4" width="100px;" alt="MinorMole"/><br /><sub><b>MinorMole</b></sub></a><br /><a href="#projectManagement-MinorMole" title="Project Management">📆</a> <a href="#maintenance-MinorMole" title="Maintenance">🚧</a> <a href="https://github.com/MinorMole/RcloneLab/commits?author=MinorMole" title="Code">💻</a></td>
   </tr>
 </table>
 
