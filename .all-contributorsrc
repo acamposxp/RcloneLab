@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Sparoney",
+      "name": "Sparoney",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/38852913?v=4",
+      "profile": "https://github.com/Sparoney",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "RcloneLab",
+  "projectOwner": "MinorMole",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
