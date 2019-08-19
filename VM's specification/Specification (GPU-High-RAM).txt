@@ -1,4 +1,4 @@
-93945fb42d42
+99bc45c06ed0
     description: Computer
     width: 64 bits
     capabilities: smp vsyscall32
@@ -8,7 +8,7 @@
      *-memory
           description: System memory
           physical id: 0
-          size: 12GiB
+          size: 25GiB
      *-cpu
           product: Intel(R) Xeon(R) CPU @ 2.30GHz
           vendor: Intel Corp.
@@ -50,7 +50,7 @@
         *-generic
              description: Non-VGA unclassified device
              product: Virtio SCSI
-             vendor: Red Hat, Inc
+             vendor: Red Hat, Inc.
              physical id: 3
              bus info: pci@0000:00:03.0
              version: 00
@@ -58,24 +58,36 @@
              clock: 33MHz
              capabilities: msix bus_master cap_list
              configuration: driver=virtio-pci latency=0
-             resources: irq:11 ioport:c000(size=64) memory:febfe000-febfe07f
+             resources: irq:11 ioport:c000(size=64) memory:fd000000-fd00007f
            *-virtio0 UNCLAIMED
                 description: Virtual I/O device
                 physical id: 0
                 bus info: virtio@0
                 configuration: driver=virtio_scsi
+        *-display
+             description: 3D controller
+             product: NVIDIA Corporation
+             vendor: NVIDIA Corporation
+             physical id: 4
+             bus info: pci@0000:00:04.0
+             version: a1
+             width: 64 bits
+             clock: 33MHz
+             capabilities: msix pm bus_master cap_list
+             configuration: driver=nvidia latency=0
+             resources: irq:11 memory:fc000000-fcffffff memory:d0000000-dfffffff memory:e0000000-e1ffffff
         *-network
              description: Ethernet controller
              product: Virtio network device
-             vendor: Red Hat, Inc
-             physical id: 4
-             bus info: pci@0000:00:04.0
+             vendor: Red Hat, Inc.
+             physical id: 5
+             bus info: pci@0000:00:05.0
              version: 00
              width: 32 bits
              clock: 33MHz
              capabilities: msix bus_master cap_list
              configuration: driver=virtio-pci latency=0
-             resources: irq:10 ioport:c040(size=64) memory:febff000-febff07f
+             resources: irq:10 ioport:c040(size=64) memory:fd001000-fd0010ff
            *-virtio1 UNCLAIMED
                 description: Virtual I/O device
                 physical id: 0
