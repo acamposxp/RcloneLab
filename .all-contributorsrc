@@ -54,6 +54,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "Xazmah",
+      "name": "Xazmah",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40501994?v=4",
+      "profile": "https://github.com/Xazmah",
+      "contributions": [
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
