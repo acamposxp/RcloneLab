@@ -1,0 +1,83 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "MinorMole",
+      "name": "MinorMole",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11065194?v=4",
+      "profile": "https://github.com/MinorMole",
+      "contributions": [
+        "projectManagement",
+        "maintenance",
+        "code"
+      ]
+    },
+    {
+      "login": "Sparoney",
+      "name": "Sparoney",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/38852913?v=4",
+      "profile": "https://github.com/Sparoney",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    },
+    {
+      "login": "ShixAJ",
+      "name": "ShixAJ",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/37572790?v=4",
+      "profile": "https://github.com/ShixAJ",
+      "contributions": [
+        "ideas",
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "K-E-N-W-A-Y",
+      "name": "K-E-N-W-A-Y",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25846872?v=4",
+      "profile": "https://github.com/K-E-N-W-A-Y",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "r9isgod8",
+      "name": "r9isgod8",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9054411?v=4",
+      "profile": "https://github.com/r9isgod8",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "Xazmah",
+      "name": "Xazmah",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40501994?v=4",
+      "profile": "https://github.com/Xazmah",
+      "contributions": [
+        "userTesting"
+      ]
+    },
+    {
+      "login": "gamesmews",
+      "name": "Wolverlone",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8480926?v=4",
+      "profile": "https://github.com/gamesmews",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "RcloneLab",
+  "projectOwner": "MinorMole",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}

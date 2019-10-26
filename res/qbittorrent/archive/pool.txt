@@ -1,0 +1,1 @@
+http://ppa.launchpad.net/qbittorrent-team/qbittorrent-stable/ubuntu/pool/main/q/qbittorrent/
